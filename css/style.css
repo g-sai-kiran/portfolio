@@ -476,7 +476,8 @@ button:focus {
   font-family: "Roboto", sans-serif;
   color: #000000;
   line-height: 34px;
-  display: inline-block; }
+  display: inline-block;
+ }
   .blog_btn:hover {
     background: #4458dc;
     border-color: #4458dc;
